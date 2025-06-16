@@ -134,3 +134,16 @@ img {
         max-width: 1140px;
     }
 }
+
+@media screen and (max-width: 480px) {
+    section.why-us {
+        margin: 0;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        background-color: rgb(34, 34, 34);
+    }
+
+    section.steps {
+        margin-bottom: 0;
+    }
+}
