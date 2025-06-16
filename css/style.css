@@ -146,4 +146,16 @@ img {
     section.steps {
         margin-bottom: 0;
     }
+
+    .row {
+        flex-wrap: wrap;
+    }
+
+    .lessons .col,
+    .steps .col,
+    .why-us .col-left,
+    .why-us .col-right {
+        width: 100%;
+        margin-bottom: 50px;
+    }
 }
