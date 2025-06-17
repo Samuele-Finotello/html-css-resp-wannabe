@@ -130,14 +130,13 @@ img {
  ************************************************/
 @media screen and (min-width: 769px) and (max-width: 1460px) {
     .container {
-        max-width: 100%;
+        width: 100%;
     }
 }
 
 @media screen and (max-width: 768px) {
     .container {
         width: 100%;
-        max-width: 1140px;
     }
 }
 
